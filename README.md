@@ -1,4 +1,4 @@
-# Hackintosh Asus B460 G Gaming + 10th Generation Intel® Core™ i3 Processors
+# [SUCCESS] Hackintosh Asus B460 G Gaming + Intel® Core™ i3 10100 Processors
 
 # Hardware
 
