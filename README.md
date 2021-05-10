@@ -69,6 +69,8 @@ Not tested
 # Screenshot
 
 
-![AboutThisMac](https://user-images.githubusercontent.com/68510491/111687757-3ce66400-885d-11eb-8fbc-8fb5ce7137dd.png)
-![Hackintool-1](https://user-images.githubusercontent.com/68510491/111687785-453e9f00-885d-11eb-91fd-e99b9ea14b29.png)
+![AboutThisMac](https://user-images.githubusercontent.com/68510491/117605895-ef161a00-b182-11eb-9a3d-089ac08b0efa.png)
+![Hackintool-1](https://user-images.githubusercontent.com/68510491/117605899-f0dfdd80-b182-11eb-83b1-c9c165c3f22a.png)
 ![GeekBench5-4](https://user-images.githubusercontent.com/68510491/111687807-4cfe4380-885d-11eb-8b84-1746228db89a.png)
+
+
