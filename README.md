@@ -61,7 +61,7 @@ Working
 Not working at the moment
 
 - [ ] AirDrop
-- [ ] USC Audio
+- [ ] USB Type-C Audio
 
 Not tested
 
