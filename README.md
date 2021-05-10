@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">BIOS</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/motherboards/rog-strix/rog-strix-z490-g-gaming-wi-fi-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1003</a></td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1101</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore</span></td>
