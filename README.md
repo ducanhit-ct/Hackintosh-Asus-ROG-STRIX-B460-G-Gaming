@@ -60,13 +60,10 @@ Working
  
 Not working at the moment
 
-- [ ] AirDrop
 - [ ] USB Type-C Audio
 
 Not tested
 
-- [ ] Handoff
-- [ ] Sidecar
 - [ ] USB Type-C
 
 # Screenshot
