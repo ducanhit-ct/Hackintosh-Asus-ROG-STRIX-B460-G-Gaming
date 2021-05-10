@@ -12,7 +12,7 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">Motherboard</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/" target="_blank" rel="noopener noreferrer">ROG STRIX B460-G GAMING (WI-FI)</a></td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/" target="_blank" rel="noopener noreferrer">ROG STRIX B460-G GAMING</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">CPU</span></td>
