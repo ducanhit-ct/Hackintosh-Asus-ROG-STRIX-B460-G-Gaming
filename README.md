@@ -71,4 +71,5 @@ Not tested
 
 ![AboutThisMac](https://user-images.githubusercontent.com/68510491/117605895-ef161a00-b182-11eb-9a3d-089ac08b0efa.png)
 ![Hackintool-1](https://user-images.githubusercontent.com/68510491/117605899-f0dfdd80-b182-11eb-83b1-c9c165c3f22a.png)
-![GeekBench5-4](https://user-images.githubusercontent.com/68510491/111687807-4cfe4380-885d-11eb-8b84-1746228db89a.png)
+![Screen Shot 2021-05-29 at 23 34 09](https://user-images.githubusercontent.com/68510491/120077831-81e90b00-c0d6-11eb-98be-9fd09ef58fc5.png)
+
