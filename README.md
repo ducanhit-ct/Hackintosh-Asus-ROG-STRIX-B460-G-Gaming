@@ -22,21 +22,25 @@
     <td class="tg-c3ow">Ram</td>
     <td class="tg-c3ow"><a href="https://www.gskill.com/product/165/166/1536654268/F4-3200C16D-16GTZRTrident-Z-RGBDDR4-3200MHz-CL16-18-18-38-1.35V16GB-(2x8GB)" target="_blank" rel="noopener noreferrer">Trident Z RGB DDR4-3200MHz CL16-18-18-38 1.35V 16GB (2x8GB)</a></td>
   </tr>
+   <tr>
+    <td class="tg-c3ow"><span style="font-style:normal">Wifi & Bluetooth</span></td>
+    <td class="tg-c3ow">BCM94360CS2</td>
+  </tr>
   <tr>
     <td class="tg-c3ow">Graphics Card</td>
     <td class="tg-c3ow"><span style="font-style:normal">Intel UHD Graphics 630</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">BIOS</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1101</a></td>
+    <td class="tg-c3ow">BIOS Version</td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1401</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-style:normal">OpenCore</span></td>
-    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.6.9</a></td>
+    <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
+    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.7.5</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-style:normal">macOS</span></td>
-    <td class="tg-c3ow">BigSur 11.3.1</td>
+    <td class="tg-c3ow"><span style="font-style:normal">macOS Version</span></td>
+    <td class="tg-c3ow">Monterey 12.0.1</td>
   </tr>
 </tbody>
 </table>
@@ -56,20 +60,23 @@ Working
 - [x] Audio Jack Rear and Front (Realtek ALC S1220A)
 - [x] HDMI,DP Audio
 - [x] iMessage, Facetime
+- [x] Wifi, Bluetooth, AirDrop, AirPlay, Handoff
 - [x] All Port USB and Super Speed USB 3.2
+- [x] USB Type-C
 
 Not working at the moment
 
 - [ ] USB Type-C Audio
 
-Not tested
-
-- [ ] USB Type-C
 
 # Screenshot
 
 
-![AboutThisMac](https://user-images.githubusercontent.com/68510491/117605895-ef161a00-b182-11eb-9a3d-089ac08b0efa.png)
-![Hackintool-1](https://user-images.githubusercontent.com/68510491/117605899-f0dfdd80-b182-11eb-83b1-c9c165c3f22a.png)
-![Screen Shot 2021-05-29 at 23 34 09](https://user-images.githubusercontent.com/68510491/120077831-81e90b00-c0d6-11eb-98be-9fd09ef58fc5.png)
+![AboutThisMac](https://user-images.githubusercontent.com/68510491/141107114-1e4482aa-872c-430f-8d12-8290f3847fd2.png)
+
+![Hackintool-1](https://user-images.githubusercontent.com/68510491/141107163-620b5b1e-cdc2-4e90-9c56-2e272755a91b.png)
+
+![Geekbench](https://user-images.githubusercontent.com/68510491/141116556-f10ee7df-7794-40fb-bd84-942bd565a0fd.png)
+
+
 
