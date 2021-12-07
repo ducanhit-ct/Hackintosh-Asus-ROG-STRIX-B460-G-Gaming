@@ -24,7 +24,7 @@
   </tr>
    <tr>
     <td class="tg-c3ow"><span style="font-style:normal">Wifi & Bluetooth</span></td>
-    <td class="tg-c3ow">BCM94360CS2</td>
+    <td class="tg-c3ow">BCM943602CS + Adapter PCIe X1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Graphics Card</td>
@@ -74,7 +74,7 @@ Not working at the moment
 
 ![AboutThisMac](https://user-images.githubusercontent.com/68510491/141107114-1e4482aa-872c-430f-8d12-8290f3847fd2.png)
 
-![Hackintool-1](https://user-images.githubusercontent.com/68510491/141107163-620b5b1e-cdc2-4e90-9c56-2e272755a91b.png)
+![Hackintool](https://user-images.githubusercontent.com/68510491/144629244-df09d963-c336-4367-a3e9-2f8906b5c58d.png)
 
 ![Geekbench](https://user-images.githubusercontent.com/68510491/141116556-f10ee7df-7794-40fb-bd84-942bd565a0fd.png)
 
