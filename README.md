@@ -78,4 +78,5 @@ Not working at the moment
 
 ![Geekbench](https://user-images.githubusercontent.com/68510491/141116556-f10ee7df-7794-40fb-bd84-942bd565a0fd.png)
 
+![geekbench win 11](https://user-images.githubusercontent.com/68510491/145866194-151dae7a-8b6e-4e5a-a5dd-b45844205ccf.png)
 
