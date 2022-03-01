@@ -36,11 +36,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
-    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.7.5</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.7.8</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">macOS Version</span></td>
-    <td class="tg-c3ow">Monterey 12.0.1</td>
+    <td class="tg-c3ow">Monterey 12.2.1</td>
   </tr>
 </tbody>
 </table>
@@ -72,9 +72,9 @@ Not working at the moment
 # Screenshot
 
 
-![AboutThisMac](https://user-images.githubusercontent.com/68510491/141107114-1e4482aa-872c-430f-8d12-8290f3847fd2.png)
+![AboutThisMac](https://user-images.githubusercontent.com/68510491/156137874-379b3ff9-2f71-4bb9-b507-ad9e56c8f12a.png)
 
-![Hackintool](https://user-images.githubusercontent.com/68510491/144629244-df09d963-c336-4367-a3e9-2f8906b5c58d.png)
+![Hackintool](https://user-images.githubusercontent.com/68510491/156138258-78d15e4a-c7d8-4fc9-a2ef-86da7804f69a.png)
 
 ![Geekbench](https://user-images.githubusercontent.com/68510491/141116556-f10ee7df-7794-40fb-bd84-942bd565a0fd.png)
 
