@@ -22,6 +22,44 @@
 	<string>1.1</string>
 	<key>IOKitPersonalities</key>
 	<dict>
+		<key>PXSX</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IOParentMatch</key>
+			<dict>
+				<key>IOPropertyMatch</key>
+				<dict>
+					<key>pcidebug</key>
+					<string>1:0:0</string>
+				</dict>
+			</dict>
+			<key>IOProviderClass</key>
+			<string>AppleUSBHostController</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>port-count</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>ports</key>
+				<dict>
+					<key>SS01</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>port</key>
+						<data>
+						AQAAAA==
+						</data>
+					</dict>
+				</dict>
+			</dict>
+			<key>model</key>
+			<string>iMac20,1</string>
+		</dict>
 		<key>XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -124,7 +162,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						EwAAAA==
+						EQAAAA==
 						</data>
 					</dict>
 					<key>SS02</key>
@@ -133,7 +171,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FAAAAA==
+						EwAAAA==
 						</data>
 					</dict>
 					<key>SS03</key>
@@ -142,7 +180,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FQAAAA==
+						FAAAAA==
 						</data>
 					</dict>
 					<key>SS04</key>
@@ -151,7 +189,7 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FgAAAA==
+						FQAAAA==
 						</data>
 					</dict>
 					<key>SS05</key>
@@ -160,10 +198,19 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						FwAAAA==
+						FgAAAA==
 						</data>
 					</dict>
 					<key>SS06</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						FwAAAA==
+						</data>
+					</dict>
+					<key>SS07</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>

@@ -32,15 +32,15 @@
   </tr>
   <tr>
     <td class="tg-c3ow">BIOS Version</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1401</a></td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1601</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
-    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.7.8</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.9.0</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">macOS Version</span></td>
-    <td class="tg-c3ow">Monterey 12.2.1</td>
+    <td class="tg-c3ow">Ventura 13.3</td>
   </tr>
 </tbody>
 </table>
