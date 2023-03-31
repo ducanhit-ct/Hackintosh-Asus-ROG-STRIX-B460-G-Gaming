@@ -72,7 +72,7 @@ Not working at the moment
 # Screenshot
 
 
-![AboutThisMac](https://user-images.githubusercontent.com/68510491/156137874-379b3ff9-2f71-4bb9-b507-ad9e56c8f12a.png)
+![AboutThisHack](https://user-images.githubusercontent.com/68510491/229200605-e3d3148b-aafa-4334-96ea-13096681b773.png)
 
 ![Hackintool](https://user-images.githubusercontent.com/68510491/156138258-78d15e4a-c7d8-4fc9-a2ef-86da7804f69a.png)
 
