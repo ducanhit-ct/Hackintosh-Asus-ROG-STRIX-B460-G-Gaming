@@ -36,11 +36,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
-    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.9.0</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank" rel="noopener noreferrer">0.9.3</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">macOS Version</span></td>
-    <td class="tg-c3ow">Ventura 13.3</td>
+    <td class="tg-c3ow">Ventura 13.4</td>
   </tr>
 </tbody>
 </table>
