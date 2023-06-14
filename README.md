@@ -71,8 +71,7 @@ Not working at the moment
 
 # Screenshot
 
-
-![AboutThisHack](https://user-images.githubusercontent.com/68510491/229200605-e3d3148b-aafa-4334-96ea-13096681b773.png)
+![AboutThisHack](https://github.com/ducanhit-ct/Hackintosh-Asus-ROG-STRIX-B460-G-Gaming/assets/68510491/2d88d83c-3ccf-488f-ad8b-50104b28797f)
 
 ![Hackintool](https://user-images.githubusercontent.com/68510491/156138258-78d15e4a-c7d8-4fc9-a2ef-86da7804f69a.png)
 
