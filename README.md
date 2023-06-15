@@ -73,6 +73,8 @@ Not working at the moment
 
 ![AboutThisHack](https://github.com/ducanhit-ct/Hackintosh-Asus-ROG-STRIX-B460-G-Gaming/assets/68510491/2d88d83c-3ccf-488f-ad8b-50104b28797f)
 
+![PCI](https://github.com/ducanhit-ct/Hackintosh-Asus-ROG-STRIX-B460-G-Gaming/assets/68510491/e6779c2f-614b-4bf3-ac0e-c25cfaeb5ea2)
+
 ![Hackintool](https://user-images.githubusercontent.com/68510491/156138258-78d15e4a-c7d8-4fc9-a2ef-86da7804f69a.png)
 
 ![Geekbench](https://user-images.githubusercontent.com/68510491/141116556-f10ee7df-7794-40fb-bd84-942bd565a0fd.png)
