@@ -243,7 +243,7 @@
                 <key>PciRoot(0x0)/Pci(0x1F,0x4)</key>
                 <dict>
                     <key>AAPL,slot-name</key>
-                    <string>Internal@0,31,4</string>
+                    <string>Built In</string>
                     <key>device_type</key>
                     <string>SMBus</string>
                     <key>model</key>
@@ -254,7 +254,7 @@
                     <key>AAPL,ig-platform-id</key>
                     <data>BwCbPg==</data>
                     <key>AAPL,slot-name</key>
-                    <string>Internal@0,2,0</string>
+                    <string>Built In</string>
                     <key>device-id</key>
                     <data>mD4AAA==</data>
                     <key>device_type</key>
@@ -1118,13 +1118,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string></string>
+                <string>C02048600GUPHCDCB</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data></data>
+                <data>rLwy0zDX</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1132,9 +1132,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02DRHY4PN5T</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>CAABFA07-8E88-4D28-AC01-293E8D5EB50B</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
